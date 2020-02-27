@@ -1,4 +1,4 @@
-[![Udacity](https://circleci.com/gh/udacity-containerization-exercise/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![Udacity](https://circleci.com/gh/udacity-containerization-exercise/circleci-docs.svg?style=svg)](https://app.circleci.com/jobs/github/adespotakis/udacity_containerization_exercise/7)
 
 
 ## Project Overview
